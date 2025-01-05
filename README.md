@@ -24,8 +24,7 @@ I'm a passionate developer with a keen interest in web development, open-source 
   - Anything tech-related!
 
 - 📫 How to reach me:
-  - Email: robgrame@microsoft.com
-  - LinkedIn: [Rob Grame](https://www.linkedin.com/in/robgrame/)
+  - LinkedIn: [Rob Grame](https://www.linkedin.com/in/robertogramellini/)
   - Twitter: [@robgrame](https://twitter.com/robgrame)
 
 - ⚡ Fun fact:
