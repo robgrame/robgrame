@@ -7,10 +7,11 @@ I'm a passionate developer with a keen interest in web development, open-source 
 - 🔭 I’m currently working on:
   - Automation projects to enrich Intune Admins experience
   - .NET core applications to ease the daily work of IT Admins
+  - Agentic AI solution using Copilot
 
 - 🌱 I’m currently learning:
-  - Blazor
-  - Kusto
+  - Python
+  - AI
 
 - 👯 I’m looking to collaborate on:
   - Open-source projects
